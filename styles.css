@@ -1,0 +1,60 @@
+.menu{
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-around;
+    background-color:black;
+    position:fixed;
+    height: 100px;
+    z-index: 10;
+}
+.logo{
+    height: 100px;
+    width:175px;
+}
+.two{
+    margin-top: 20px;
+    display: flex;
+    justify-content:center;
+}
+.hy{
+    margin-left: 50px;
+    margin-top: 150px;
+    line-height:5rem;
+    color: brown;
+}
+.samad{
+   font-size: 100px;
+   color:crimson;
+}
+.web-developer{
+    margin-left: 50px;
+    line-height: 2rem;
+}
+.samadPic{
+    height: 355px;
+    width: 150px;
+    margin-top: 150px;
+}
+.carousel-item{
+    height: 350px;
+    width: 100%;
+}
+.technical-skills{
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(126, 122, 122);
+}
+.technologies{
+    width: 50%;
+    margin: auto;
+   
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    height: 35px;
+}
+.code{
+    color: aliceblue;
+}
